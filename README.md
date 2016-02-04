@@ -1,0 +1,2 @@
+# djangogirls
+project for school
